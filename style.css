@@ -10,6 +10,9 @@ body {
     line-height: 1.6;
     color: #333;
     background-color: #f4f4f9;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 /* Header */
@@ -30,6 +33,7 @@ body {
 
 /* Main Content */
 .main-content {
+    flex: 1; /* Agar bagian konten utama fleksibel */
     padding: 20px;
 }
 
@@ -52,7 +56,7 @@ ul {
 /* WhatsApp Button */
 .whatsapp-button {
     display: inline-block;
-    background-color: #25D366;
+    background-color: #242524;
     color: white;
     text-decoration: none;
     padding: 10px 20px;
@@ -72,8 +76,8 @@ ul {
     padding: 10px;
     background-color: #232424;
     color: white;
-    position: relative;
-    bottom: 0;
-    margin-bottom:auto;
     width: 100%;
+    margin-top: auto; /* Memastikan footer tetap berada di bawah */
 }
+
+
