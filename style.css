@@ -15,7 +15,7 @@ body {
 /* Header */
 .header {
     text-align: center;
-    background-color: #007bff;
+    background-color: #e40909;
     color: #fff;
     padding: 20px 10px;
 }
@@ -39,7 +39,7 @@ body {
 
 h2 {
     font-size: 1.8em;
-    color: #007bff;
+    color: #373738;
     margin-bottom: 10px;
 }
 
