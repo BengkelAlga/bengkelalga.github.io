@@ -74,6 +74,6 @@ ul {
     color: white;
     position: relative;
     bottom: 0;
-    margin-bottom: 0%;
+    margin-bottom:auto;
     width: 100%;
 }
