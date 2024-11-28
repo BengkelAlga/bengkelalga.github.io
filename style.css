@@ -551,7 +551,7 @@ nav {
   }
 
   .nav__menu__btn {
-    display: none;
+    display :contents;
   }
 
   .nav__links {
