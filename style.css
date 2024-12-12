@@ -625,3 +625,22 @@ nav {
     gap: 2rem;
   }
 }
+
+.footer__col {
+  text-align: center; /* Untuk memusatkan teks */
+}
+
+.footer__links {
+  list-style: none; /* Hilangkan bullet pada list */
+  padding: 0; /* Hilangkan padding bawaan */
+}
+
+.footer__links li {
+  margin: 10px 0; /* Tambahkan sedikit jarak antar item */
+}
+
+.footer__bar {
+  text-align: center; /* Pusatkan teks pada copyright */
+  padding: 10px 0; /* Tambahkan jarak vertikal */
+  background-color: #f5f5f5; /* Opsional: Tambahkan warna latar */
+}
