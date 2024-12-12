@@ -640,7 +640,7 @@ nav {
 }
 
 .footer__bar {
-  text-align: center; /* Pusatkan teks pada copyright */
-  padding: 10px 0; /* Tambahkan jarak vertikal */
-  background-color: #f5f5f5; /* Opsional: Tambahkan warna latar */
+  text-align: center;
+  padding: 10px 0;
+  background-color: #f5f5f5; 
 }
